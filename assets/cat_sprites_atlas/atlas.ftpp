@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "00.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/00.png",
+      "folder": ""
+    },
+    {
+      "name": "01.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/01.png",
+      "folder": ""
+    },
+    {
+      "name": "02.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/02.png",
+      "folder": ""
+    },
+    {
+      "name": "03.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/03.png",
+      "folder": ""
+    },
+    {
+      "name": "08.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/08.png",
+      "folder": ""
+    },
+    {
+      "name": "09.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/09.png",
+      "folder": ""
+    },
+    {
+      "name": "10.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/10.png",
+      "folder": ""
+    },
+    {
+      "name": "11.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/11.png",
+      "folder": ""
+    },
+    {
+      "name": "16.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/16.png",
+      "folder": ""
+    },
+    {
+      "name": "17.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/17.png",
+      "folder": ""
+    },
+    {
+      "name": "18.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/18.png",
+      "folder": ""
+    },
+    {
+      "name": "19.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/19.png",
+      "folder": ""
+    },
+    {
+      "name": "24.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/24.png",
+      "folder": ""
+    },
+    {
+      "name": "25.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/25.png",
+      "folder": ""
+    },
+    {
+      "name": "26.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/26.png",
+      "folder": ""
+    },
+    {
+      "name": "27.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/27.png",
+      "folder": ""
+    },
+    {
+      "name": "32.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/32.png",
+      "folder": ""
+    },
+    {
+      "name": "33.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/33.png",
+      "folder": ""
+    },
+    {
+      "name": "34.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/34.png",
+      "folder": ""
+    },
+    {
+      "name": "35.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/35.png",
+      "folder": ""
+    },
+    {
+      "name": "36.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/36.png",
+      "folder": ""
+    },
+    {
+      "name": "37.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/37.png",
+      "folder": ""
+    },
+    {
+      "name": "38.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/38.png",
+      "folder": ""
+    },
+    {
+      "name": "39.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/39.png",
+      "folder": ""
+    },
+    {
+      "name": "40.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/40.png",
+      "folder": ""
+    },
+    {
+      "name": "41.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/41.png",
+      "folder": ""
+    },
+    {
+      "name": "42.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/42.png",
+      "folder": ""
+    },
+    {
+      "name": "43.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/43.png",
+      "folder": ""
+    },
+    {
+      "name": "44.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/44.png",
+      "folder": ""
+    },
+    {
+      "name": "45.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/45.png",
+      "folder": ""
+    },
+    {
+      "name": "46.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/46.png",
+      "folder": ""
+    },
+    {
+      "name": "47.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/47.png",
+      "folder": ""
+    },
+    {
+      "name": "48.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/48.png",
+      "folder": ""
+    },
+    {
+      "name": "49.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/49.png",
+      "folder": ""
+    },
+    {
+      "name": "50.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/50.png",
+      "folder": ""
+    },
+    {
+      "name": "51.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/51.png",
+      "folder": ""
+    },
+    {
+      "name": "56.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/56.png",
+      "folder": ""
+    },
+    {
+      "name": "57.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/57.png",
+      "folder": ""
+    },
+    {
+      "name": "58.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/58.png",
+      "folder": ""
+    },
+    {
+      "name": "59.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/59.png",
+      "folder": ""
+    },
+    {
+      "name": "60.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/60.png",
+      "folder": ""
+    },
+    {
+      "name": "61.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/61.png",
+      "folder": ""
+    },
+    {
+      "name": "64.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/64.png",
+      "folder": ""
+    },
+    {
+      "name": "65.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/65.png",
+      "folder": ""
+    },
+    {
+      "name": "66.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/66.png",
+      "folder": ""
+    },
+    {
+      "name": "67.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/67.png",
+      "folder": ""
+    },
+    {
+      "name": "68.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/68.png",
+      "folder": ""
+    },
+    {
+      "name": "69.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/69.png",
+      "folder": ""
+    },
+    {
+      "name": "70.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/70.png",
+      "folder": ""
+    },
+    {
+      "name": "72.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/72.png",
+      "folder": ""
+    },
+    {
+      "name": "73.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/73.png",
+      "folder": ""
+    },
+    {
+      "name": "74.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/74.png",
+      "folder": ""
+    },
+    {
+      "name": "75.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/75.png",
+      "folder": ""
+    },
+    {
+      "name": "76.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/76.png",
+      "folder": ""
+    },
+    {
+      "name": "77.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/77.png",
+      "folder": ""
+    },
+    {
+      "name": "78.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/78.png",
+      "folder": ""
+    },
+    {
+      "name": "79.png",
+      "path": "C:/Users/schul/Desktop/picowall/assets/cat_sprites_ba2/79.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "texture",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 196,
+    "height": 196,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsPacker",
+    "packerMethod": "Smart"
+  }
+}
